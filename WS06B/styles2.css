@@ -1,0 +1,58 @@
+nav {
+    float: left;
+    width: 30%;
+    background-color: rgb(153, 180, 166);
+    margin-left: 0px;
+    margin-right: 10px;
+}
+nav ul {
+    font-size: 20px;
+    margin-bottom: 730px;
+    list-style-type: circle;
+}
+article {
+    font-size: 17px;
+    float: left;
+    width: 50%;
+    background-color: white;
+    text-align: left;
+}
+.navigointi {
+    float: left;
+    display: inline; 
+    list-style-type: none;
+    background-color: rgb(166, 180, 171);
+    width: 100%;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    font-size: 30px;
+    margin-top: 0%;
+    height: 37px;
+}
+a:hover { 
+    color: red ;
+}  
+
+h1 {
+    color:  whitesmoke;
+    font-size: 60px;
+    background-color: rgb(72, 88, 81);
+    height: 74px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+    text-align: center;
+    font-size: 60px;
+    border: 3px;
+    padding-top: 7px;
+}
+h2 {
+    font-size: 19px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+}
